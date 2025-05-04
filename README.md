@@ -1,3 +1,5 @@
+Video walkthrough: https://www.youtube.com/watch?v=gL3UEmfKZFI
+
 This repository contains a Containerfile to build and run a container with the Dia text to speech model (https://github.com/nari-labs/dia)
 
 For use with an NVIDIA GPU with the NVIDIA container toolkit installed and configured for use with Podman.
